@@ -1,0 +1,3 @@
+# Signal-distortion-measuring-device
+2021年全国大学生电子设计竞赛A题信号失真度测量装置
+使用MSP430F5529
