@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <DebugChecksum>
+        <Checksum>953770758</Checksum>
+    </DebugChecksum>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <EEM_State_Storage>
+        <Buffer>010000000000000000000000</Buffer>
+    </EEM_State_Storage>
+    <EEM_Sequencer>
+        <Buffer>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Buffer>
+    </EEM_Sequencer>
+    <EEM_Cycle_Counter_0>
+        <Counter0>0000000000000000000000000000000000000000000000000000000000000000</Counter0>
+    </EEM_Cycle_Counter_0>
+    <EEM_Cycle_Counter_1>
+        <Counter1>0000000000000000000000000000000000000000000000000000000000000000</Counter1>
+    </EEM_Cycle_Counter_1>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <DataSample>
+        <LogEnabled>0</LogEnabled>
+        <GraphEnabled>0</GraphEnabled>
+        <ShowTimeLog>1</ShowTimeLog>
+    </DataSample>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
+    <Breakpoints>
+        <Count>0</Count>
+    </Breakpoints>
+    <FET>
+        <Clock_mode>46</Clock_mode>
+        <Extended_Clock_mode>1055</Extended_Clock_mode>
+        <Secure_Password />
+        <Extended_Clock_Control_Enable>1</Extended_Clock_Control_Enable>
+        <Advanced_Extended_Clock_Control>0</Advanced_Extended_Clock_Control>
+        <Emulation_mode>0</Emulation_mode>
+        <Free_running>0</Free_running>
+        <Shutting_Down>3</Shutting_Down>
+    </FET>
+    <Memory_Dump>
+        <Start_address />
+        <Lenghth />
+        <Address_info>0</Address_info>
+        <Format>0</Format>
+        <Dump_registers>0</Dump_registers>
+        <PC>0</PC>
+        <SP>0</SP>
+        <SR>0</SR>
+        <all_registers>0</all_registers>
+        <File_name />
+    </Memory_Dump>
+    <Aliases>
+        <A0>_ "C:\Users\KXDN\Desktop\test\430_频率分析\F5xx_F6xx_Core_Lib\HAL_UCS.c" ""</A0>
+        <A1>_ "C:\Users\KXDN\Desktop\test\430_频率分析\MSP-EXP430F5529_HAL\ADC.c" ""</A1>
+        <A2>_ "C:\Users\KXDN\Desktop\test\430_频率分析\MSP-EXP430F5529_HAL\HAL_Buttons.c" ""</A2>
+        <A3>_ "C:\Users\KXDN\Desktop\test\430_频率分析\Src\Fourier.c" ""</A3>
+        <Count>4</Count>
+        <SuppressDialog>0</SuppressDialog>
+    </Aliases>
+</settings>
